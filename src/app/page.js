@@ -11,7 +11,7 @@ export default function Home() {
           <h1 className="text-[2.6rem] leading-[2.5rem] md:leading-[4rem] md:text-[3.5rem] font-bold text-left text-mainblue">
           To shape a brighter tomorrow, you need a robotics system that envisions <span className="text-gradient">every possibility</span>. 
           </h1>
-          <p>
+          <p className="text-justify">
           AMURoboclub nurtures curious minds with its motto, &apos;Where Innovation Meets Implementation.&apos; It offers a dynamic learning environment and hands-on experience with robotics technologies, guided by faculty advisors from Zakir Husain College of Engineering and Technology, Aligarh Muslim University.
           </p>
 
@@ -45,7 +45,7 @@ export default function Home() {
             <h1 className="text-[1.7rem] md:text-[2.8rem] leading-[2rem] md:leading-[3.4rem] font-bold text-mainblue">
               Innovating and overcoming today&apos;s robotics challenges to create a smarter, more sustainable future for our campus and beyond.
             </h1>
-            <p className="pt-24 font-medium">
+            <p className="pt-24 font-medium text-justify">
             AMURoboclub fosters interest and showcases talent in robotics and engineering through engaging activities, competitions, projects, and workshops year-round. We encourage participation in national and international contests and support students of all branches and years. Our experienced seniors and fresh innovators work together to provide a training environment that leads to <strong>successful careers</strong>. Our alumni excel in prestigious companies and many achieve top ranks in exams like GATE, securing positions in IITs for further studies.
             </p>
           </div>
