@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={` ${inter.className} ${raleway.className} `}>
-        <div className="h-screen w-full bg-black bg-dot-white/[0.2]">
+        <div className="h-screen w-full">
           <div>{children}</div>
         </div>
       </body>
