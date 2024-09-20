@@ -5,7 +5,7 @@ import Logo from "../src/assets/logo.png";
 export default function Navbar(){
 
     return(
-        <nav className="flex justify-between items-center pr-4 h-[13vh]">
+        <nav className="flex justify-between items-center pr-4 h-[13vh] bg-mainlight">
               <Image 
                   src={Logo} 
                   alt="amuroboclub logo" 
