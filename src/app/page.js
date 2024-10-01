@@ -139,7 +139,7 @@ export default function Home() {
 
             <h1 className="text-2xl md:text-3xl leading-[2rem] md:leading-[3.4rem] font-semibold font-mont text-mainblue">Community and Mentorship</h1>
             <p className="text-lg">
-            We believe that learning is a collective journey, and by nurturing a culture of shared knowledge and mentorship, we create an environment where every member thrives and can reach their full potential. Whether it's coding, mechanical design, or strategic problem-solving, members benefit from one another’s expertise, ensuring that no one tackles challenges alone.
+            We believe that learning is a collective journey, and by nurturing a culture of shared knowledge and mentorship, we create an environment where every member thrives and can reach their full potential. Whether its coding, mechanical design, or strategic problem-solving, members benefit from one anothers expertise, ensuring that no one tackles challenges alone.
 
 
             </p>
